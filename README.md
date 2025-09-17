@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1 align="center">Software engineer</h1>
 
-<!--
-**Sol1tud9/Sol1tud9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎨 Tech:
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cs,cpp,go,ts,nodejs,html,css,git,github,docker,postgres,django" />
+</p>
+
